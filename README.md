@@ -1,5 +1,5 @@
 # RingBuffer
-This repository contains the thread safe implementation of  template circular buffer
+This repository contains the thread safe implementation of  template header only circular buffer
 
 Example:
 
